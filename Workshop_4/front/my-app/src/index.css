@@ -1,0 +1,58 @@
+/* body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #f0f0f0;
+}
+
+.app-container {
+  text-align: center;
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 300px;
+}
+
+.joke-container p {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+.votes-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.vote-btn {
+  font-size: 20px;
+  margin: 0 10px;
+  padding: 10px 15px;
+  cursor: pointer;
+  border: none;
+  background-color: #f4f4f4;
+  border-radius: 5px;
+}
+
+.vote-btn:hover {
+  background-color: #ddd;
+}
+
+.get-joke-btn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.get-joke-btn:hover {
+  background-color: #218838;
+} */
